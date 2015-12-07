@@ -24,4 +24,4 @@
 - Валидатор HTML/CSS от W3C [W3C HTML validator](http://validator.w3.org/nu/)
 - http://codepen.io/
 - http://jsfiddle.net/
-- 
+- http://stackshare.io/trending/tools
