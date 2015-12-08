@@ -8,6 +8,7 @@
 - Рекомендации по ведению истории изменений [keepachangelog.com](http://keepachangelog.com/ru/)
 - Инструкция по проведению Code Review [habrahabr.ru](http://m.habrahabr.ru/company/Voximplant/blog/272469/)
 - Идеальный Pull Request  [habrahabr.ru](http://m.habrahabr.ru/post/272531/)
+- Удачная модель ветвеления в Git [habrahabr.ru](http://habrahabr.ru/post/106912/)
 
 ## Написание кода
 - Руководство по оформлению HTML/CSS кода от Google [habrahabr.ru](http://m.habrahabr.ru/post/143452/)
